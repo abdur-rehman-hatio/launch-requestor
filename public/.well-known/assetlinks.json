@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.ul.emvco3ds.sdk.referenceapp.sdkImpl.release",
+    "sha256_cert_fingerprints":
+    ["47:43:1F:63:42:E3:CF:C4:72:15:D9:08:03:76:D4:1D:15:26:5F:34:FD:48:18:8A:03:82:69:FA:69:D6:C7:01"]
+  }
+}]
